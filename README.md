@@ -82,7 +82,9 @@ NewsHive enables users to:
 
 ## Screenshots
 
-> Add screenshots of the home screen, category view, and article view here.
+![First](https://github.com/SagarRB123/NewsHive/blob/main/9.png?raw=true)
+![Second](https://github.com/SagarRB123/NewsHive/blob/main/10.png?raw=true)
+![Third](https://github.com/SagarRB123/NewsHive/blob/main/11.png?raw=true)
 
 ---
 
