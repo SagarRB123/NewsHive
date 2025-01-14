@@ -19,7 +19,7 @@ import retrofit2.Response;
 
 public class HealthFragment extends Fragment {
 
-    String api = "755b9d3600664539c1357a8da6dd74d6";
+    String api = "Your API_Key";
     ArrayList<Model> modelArrayList;
     Adapter adapter;
     String country = "in";

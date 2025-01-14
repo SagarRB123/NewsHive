@@ -18,7 +18,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class SportsFragment extends Fragment {
-    String api = "755b9d3600664539c1357a8da6dd74d6";
+    String api = "Your API_Key";
     ArrayList<Model> modelArrayList;
     Adapter adapter;
     String country = "in";
